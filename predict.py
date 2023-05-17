@@ -1,4 +1,4 @@
-# from model import model..
+# from model import model
 import os
 from keras_preprocessing.image import ImageDataGenerator, load_img
 import cv2
